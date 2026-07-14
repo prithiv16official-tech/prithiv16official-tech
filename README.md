@@ -59,7 +59,7 @@ A web-based personal health and productivity platform, built with AI-assisted de
 
 ### 📜 Certifications
 - be10x — *(AI TOOL WORKSHOP)*
-- Infosys Springboard — *(BASICS OF PYTHON)*
+- Infosys Springboard — *(Fundamentals of the C Language: Getting Started)*
 
 ---
 
